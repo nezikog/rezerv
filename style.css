@@ -74,7 +74,7 @@ header {
   margin-top: 20px;
 }
 
-main {
+.main {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -317,27 +317,4 @@ footer {
     font-size: 14px;
   }
 }
-.info {
-  background-color: rgb(89, 142, 146);
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  padding-left: 10px;
-  padding-top: 10px;
-  color: rgb(255, 255, 255);
-  text-decoration: none;
-}
-
-.avatar {
-  background-color: rgb(255, 255, 255);
-  width: 450px;
-  height: 430px;
-  border-radius: 18px;
-  overflow: hidden;
-}
-
-.avatar_img {
-  width: 95%;
-}/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map */

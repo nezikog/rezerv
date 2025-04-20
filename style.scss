@@ -336,28 +336,3 @@ footer {
 
 // Описание
 
-.info{
-  background-color: rgb(89, 142, 146);
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  padding-left: 10px;
-  padding-top: 10px;
-  color: $color5;
-  text-decoration: none;
-}
-
-.avatar{
-  background-color: $color5;
-  width: 450px;
-  height: 430px;
-  border-radius: 18px;
-  overflow: hidden;
-  
-}
-
-.avatar_img{
-  width: 95%;
-}

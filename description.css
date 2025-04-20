@@ -1,0 +1,28 @@
+main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.info {
+    background-color: rgb(89, 142, 146);
+    border-radius: 12px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  .avatar {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 430px;
+    border-radius: 18px;
+    overflow: hidden;
+  }
+  
+  .avatar_img {
+    width: 95%;
+  }
+  
